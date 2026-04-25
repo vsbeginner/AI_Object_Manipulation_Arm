@@ -56,11 +56,6 @@ The system is divided into multiple stages:
 ```
 Camera → Object Detection → Selective Filtering → Coordinate Extraction → Mapping → Robotic Arm Execution
 ```
-
----
-
----
-
 ---
 
 ##  Project Structure
